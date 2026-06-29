@@ -203,9 +203,9 @@ No power dependency exists between the two boards. The companion board receives 
 ![Companion Top Render](Renders/AU4.png)
 ![Companion Bottom Render](Renders/AU5.png)
 
-### Assembled Stack
+### Photogrammetry Board
 
-![Assembled Photos](Images/assembled_stack.jpg)
+![Assembled Photos](Renders/AU9.png)
 
 ## EMI/EMC Validation
 
